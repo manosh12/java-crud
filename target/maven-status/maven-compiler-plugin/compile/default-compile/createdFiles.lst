@@ -1,0 +1,4 @@
+com/example/java_crud/models/User.class
+com/example/java_crud/JavaCrudApplication.class
+com/example/java_crud/service/UserRepository.class
+com/example/java_crud/controller/UserController.class
